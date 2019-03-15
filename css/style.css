@@ -1,0 +1,26 @@
+//body{
+   background-size: cover;
+}
+h1{
+  margin-top:150px;
+}
+p{
+  margin-left:30px;
+  color: rgb(80,80,80);
+  margin-right:30px;
+}
+h3{
+  color:rgb(0,0,50);
+}
+body{
+  background:rgb(100,0,50);
+}
+.upper{
+  background-image:url(http://i.stack.imgur.com/jGlzr.png);
+  background-size:100% 100%;
+  margin-top:0px;
+}
+.lower{
+   background-image:url(https://www.toptal.com/designers/subtlepatterns/patterns/cloth.png);
+background-size:cover;
+}
